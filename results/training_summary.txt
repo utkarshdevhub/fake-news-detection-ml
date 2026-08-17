@@ -1,0 +1,9 @@
+Dataset rows used: 44680
+Training rows: 35744
+Test rows: 8936
+Best model by F1: Linear SVM
+
+                  Model  Accuracy  Precision   Recall       F1
+             Linear SVM  0.998321   0.997880 0.998586 0.998233
+    Logistic Regression  0.991719   0.988972 0.993635 0.991298
+Multinomial Naive Bayes  0.960497   0.958933 0.957803 0.958368
