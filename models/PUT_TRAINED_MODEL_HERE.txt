@@ -1,0 +1,7 @@
+The trained model is generated locally by running:
+
+python train.py
+
+The generated model is saved as:
+
+models/best_model.joblib
