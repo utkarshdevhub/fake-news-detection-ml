@@ -1,0 +1,3 @@
+Place Fake.csv and True.csv in this folder before running train.py.
+
+The dataset files are intentionally not included in this repository because of their size.
